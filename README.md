@@ -1,6 +1,4 @@
- 👋
-<!--
-**Agabaderrickjunior**✨ 
+
 - 🔭 I’m currently A java programmer
 - 🌱 I’m currently also learning kotlin
 - 👯 I’m looking to collaborate on security and project management
@@ -9,4 +7,3 @@
 - 📫 How to reach me:agabaderrick18@fmail.com
 - 😄 
 - ⚡ Fun fact: I love learning every
--->
