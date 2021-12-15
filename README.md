@@ -1,5 +1,4 @@
-### Hi there 👋
-
+ 👋
 <!--
 **Agabaderrickjunior**✨ 
 - 🔭 I’m currently A java programmer
