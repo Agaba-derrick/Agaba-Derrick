@@ -5,4 +5,5 @@
 - 💬 Ask me about project management
 - 📫 How to reach me @ agabaderrick18@gmail.com
 - 😄 
-- ⚡ Fun fact: I love learning every
+- ⚡ Fun fact: I love learning every time i have a chance
+- 
