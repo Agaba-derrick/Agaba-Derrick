@@ -4,6 +4,6 @@
 - 🤔 I’m looking for help with mostly Android programming
 - 💬 Ask me about project management
 - 📫 How to reach me @ agabaderrick18@gmail.com
-- 😄 If interested in my work and projects you can check on my [resume](https://drive.google.com/file/d/1dZIwnDOxaGTOZFBvZLDxt-FRU1gTJkIb/view?usp=sharing)
+- 😄 If interested in my work and projects you can check on my [resume]([https://drive.google.com/file/d/1dZIwnDOxaGTOZFBvZLDxt-FRU1gTJkIb/view?usp=sharing](https://docs.google.com/document/d/1NW9PSz8bLKnRmmtMRpgqpz1X7ZdC5u0O/edit?usp=share_link&ouid=113875114519135929194&rtpof=true&sd=true))
 - ⚡ Fun fact: I love learning every time i have a chance
 - 
