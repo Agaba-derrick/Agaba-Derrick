@@ -34,10 +34,6 @@ Hello there, my name is Agaba Derrick! 👋
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
 ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
 
-## GitHub Stats:
-
-![Agaba Derrick's GitHub stats](https://github-readme-stats.vercel.app/api?username=agabaderrick&show_icons=true&theme=radical)
-
 ## Most Used Languages on GitHub:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agabaderrick&layout=compact)
