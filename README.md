@@ -6,6 +6,8 @@ Hello there, my name is Agaba Derrick! 👋
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/agaba-derrick-41b303221/)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/djunior256)
 [![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:agabaderrick18@gmail.com)
+[![Medium](https://img.shields.io/badge/Medium-follow-black)](https://medium.com/@agabaderrick18)
+
 
 ## My Profile Overview
 
