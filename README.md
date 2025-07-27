@@ -11,7 +11,7 @@ Hello there, my name is Agaba Derrick! 👋
 
 ## My Profile Overview
 
-- 🔭 Currently focusing on: OPENMRS | OpenELIS | Personal Projects | Open Science 🌱
+- 🔭 Currently focusing on: OPENMRS | OpenELIS | Personal Projects | Open Source 🌱
 - 👯 Seeking collaborations in: Open Source |Project Management | Artificial Intelligence | React | Java
 - 🤔 Seeking assistance with: React and its frameworks
 - 💬 Expertise in: DevOPS | Java | Agile methodologies
