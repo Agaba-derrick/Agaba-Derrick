@@ -1,46 +1,71 @@
-# ✨ Special_thanks_for_the_visit_🌱 🌱 welcome ✨
-Hello there, my name is Agaba Derrick! 👋
+# Agaba Derrick
 
-## 👯 Let's Connect 👯
+Software Engineer focused on backend systems and full-stack development, building and testing open-source healthcare software.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/agaba-derrick-41b303221/)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-blue)](https://twitter.com/djunior256)
-[![Gmail](https://img.shields.io/badge/Gmail-Email-red)](mailto:agabaderrick18@gmail.com)
-[![Medium](https://img.shields.io/badge/Medium-follow-black)](https://medium.com/@agabaderrick18)
+---
 
+## 🚀 Profile Overview
 
-## My Profile Overview
+- 🔭 Working on backend systems and full-stack applications
+- 🌱 Contributing to open-source healthcare software (OpenELIS, OpenMRS)
+- 🧪 Building and improving system & integration testing in Java applications
+- ⚡ Full-stack engineer with backend focus
+- 🤝 Open to collaboration on scalable software systems and APIs
 
-- 🔭 Currently focusing on: OPENMRS | OpenELIS | Personal Projects | Open Source 🌱
-- 👯 Seeking collaborations in: Open Source |Project Management | Artificial Intelligence | React | Java
-- 🤔 Seeking assistance with: React and its frameworks
-- 💬 Expertise in: DevOPS | Java | Agile methodologies
-- 📫 Contact: Reach me via email or social media platforms
-- ⚡ Fun fact: Passionate about automation and finding joy.
-- 😄 Am Currently a Dev 4 at OpenELIS 
+---
 
-## Languages and Tools:
+## 🧠 Core Focus Areas
 
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=plastic)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=plastic)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=plastic)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black&style=plastic)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
-![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white&style=plastic)
-![MSSQL](https://img.shields.io/badge/-MSSQL-CC2927?logo=microsoft-sql-server&logoColor=white&style=plastic)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=plastic)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic)
-![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&logoColor=white&style=plastic)
+- Backend Development (Java, Spring ecosystem)
+- Full-stack Web Applications
+- Open Source Healthcare Systems
+- Integration & System Testing
+- API Design and System Reliability
+
+---
+
+## 🛠️ Technical Skills
+
+### Backend
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=plastic)
-![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android&logoColor=white&style=plastic)
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white&style=plastic)
 
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=plastic)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black&style=plastic)
 
-<h3 align="center">📊 GitHub Stats</h3>
+### Databases & Tools
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?logo=postgresql&logoColor=white&style=plastic)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=plastic)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic)
 
-<div align="center">
-  <!-- Try these alternative URLs -->
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=agaba-derrick&show_icons=true&count_private=true&theme=radical&hide_border=true" width="400" />
-  <img src="https://github-readme-stats-ten-gilt.vercel.app/api/top-langs/?username=agaba-derrick&layout=compact&theme=radical&hide_border=true" width="400" />
+---
+
+## 🌍 Open Source Work
+
+- OpenELIS Global – backend contributions and system improvements
+- OpenMRS ecosystem involvement
+- Focus on improving healthcare software reliability and testing
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agaba-derrick&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agaba-derrick&layout=compact&theme=radical&hide_border=true" width="48%" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/agaba-derrick-41b303221/)  
+[Twitter](https://twitter.com/djunior256)  
+[Medium](https://medium.com/@agabaderrick18)  
+[Email](mailto:agabaderrick18@gmail.com)
+
+---
+
+⚡ Passionate about building reliable systems, clean backend architectures, and impactful open-source software.
