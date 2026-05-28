@@ -40,7 +40,6 @@ Software Engineer focused on backend systems and full-stack development, buildin
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=plastic)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=plastic)
 
----
 
 ## 🌍 Open Source Work
 
@@ -48,16 +47,6 @@ Software Engineer focused on backend systems and full-stack development, buildin
 - OpenMRS ecosystem involvement
 - Focus on improving healthcare software reliability and testing
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agaba-derrick&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agaba-derrick&layout=compact&theme=radical&hide_border=true" width="48%" />
-</p>
-
----
 
 ## 🤝 Connect With Me
 
@@ -65,7 +54,5 @@ Software Engineer focused on backend systems and full-stack development, buildin
 [Twitter](https://twitter.com/djunior256)  
 [Medium](https://medium.com/@agabaderrick18)  
 [Email](mailto:agabaderrick18@gmail.com)
-
----
 
 ⚡ Passionate about building reliable systems, clean backend architectures, and impactful open-source software.
