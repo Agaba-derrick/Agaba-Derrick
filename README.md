@@ -48,8 +48,8 @@ Software Engineer focused on backend systems and full-stack development, buildin
 
 - OpenELIS Global – backend contributions and system improvements
 - OpenMRS ecosystem involvement
+- Eclipse Ecosystem Contributor
 - Focus on improving healthcare software reliability and testing
-
 
 ## 🤝 Connect With Me
 
