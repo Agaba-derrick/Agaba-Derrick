@@ -41,7 +41,7 @@ React + Spring/Java APIs
 <td width="50%">
 
 **Open Source Healthcare Systems**
-OpenELIS, OpenMRS
+OpenELIS, OpenMRS, Eclipse Foundation
 
 **Integration & System Testing**
 API design and reliability
@@ -81,13 +81,11 @@ API design and reliability
 <div align="center">
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=djunior256&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=djunior256&layout=compact&hide_border=true" alt="Top Languages" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agaba-derrick&layout=compact&hide_border=true" alt="Top Languages" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=djunior256&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Agaba-derrick&hide_border=true" alt="GitHub Streak" />
 
 </div>
-
-> Replace `djunior256` above with your GitHub username if it differs, so the stats cards pull your real data.
 
 <br>
 
