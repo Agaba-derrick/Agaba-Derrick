@@ -17,13 +17,13 @@
 
 ## 💙 Support My Work
 
-If you find my work useful, you can support me through any of the following:
+If you find my work useful, you can support me through GitHub Sponsors.
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EC5800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Agaba-derrick)
-[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/yourusername)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
 
-> Replace the Buy Me a Coffee and Ko-fi links with your actual profile username when ready.
+More donation options coming soon:
+- Buy Me a Coffee
+- Ko-fi
 
 <br>
 
