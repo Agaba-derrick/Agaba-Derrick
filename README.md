@@ -4,7 +4,7 @@
 
 ### Software Engineer • Backend & Full-Stack • Open-Source Healthcare Software
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%2F+Spring;Building+OpenELIS+%26+OpenMRS;Integration+%26+System+Testing;Open+to+Collaboration+%F0%9F%A4%9D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=2496ED&center=true&vCenter=true&width=600&lines=Backend+Engineer+%7C+Java+%2F+Spring;Building+OpenELIS+%26+OpenMRS;Full-Stack+Developer+%7C+React+%2F+Spring+APIs;Open+Source+Healthcare+Software+Contributor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agaba-derrick-41b303221/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/djunior256)
@@ -12,6 +12,18 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agabaderrick18@gmail.com)
 
 </div>
+
+<br>
+
+## 💙 Support My Work
+
+If you find my work useful, you can support me through any of the following:
+
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EC5800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Agaba-derrick)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000000)](https://buymeacoffee.com/yourusername)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/yourusername)
+
+> Replace the Buy Me a Coffee and Ko-fi links with your actual profile username when ready.
 
 <br>
 
