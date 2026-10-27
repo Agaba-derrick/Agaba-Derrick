@@ -17,13 +17,10 @@
 
 ## 💙 Support My Work
 
-If you find my work useful, you can support me through GitHub Sponsors.
+If you find my work useful, you can support me through any of the platforms below. Your sponsorship helps me dedicate more time to maintaining repositories, building new tools, and writing clean open-source code!
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EC5800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Agaba-derrick)
-
-More donation options coming soon:
-- Buy Me a Coffee
-- Ko-fi
+[![Patreon](https://shields.io)](https://www.patreon.com/cw/AgabaDerrick)
 
 <br>
 
