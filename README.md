@@ -12,7 +12,6 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agabaderrick18@gmail.com)
 
 </div>
-
 <br>
 
 ## 💙 Support My Work
@@ -20,9 +19,9 @@
 If you find my work useful, you can support me through any of the platforms below. Your sponsorship helps me dedicate more time to maintaining repositories, building new tools, and writing clean open-source code!
 
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors-EC5800?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sponsors/Agaba-derrick)
-[![Patreon](https://shields.io)](https://www.patreon.com/cw/AgabaDerrick)
-
+[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://www.patreon.com/cw/AgabaDerrick)
 <br>
+
 
 ## 🚀 Profile Overview
 
