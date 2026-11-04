@@ -48,7 +48,7 @@ React + Spring/Java APIs
 </td>
 <td width="50%">
 
-**Open Source Healthcare Systems**
+**Open Source Systems**
 OpenELIS, OpenMRS, Eclipse Foundation
 
 **Integration & System Testing**
