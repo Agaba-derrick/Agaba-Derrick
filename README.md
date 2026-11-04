@@ -52,7 +52,7 @@ React + Spring/Java APIs
 OpenELIS, OpenMRS, Eclipse Foundation
 
 **Integration & System Testing**
-API design and reliability
+API design CI/CD Automation and reliability
 
 </td>
 </tr>
